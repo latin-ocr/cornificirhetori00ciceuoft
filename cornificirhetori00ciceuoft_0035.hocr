@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./cornificirhetori00ciceuoft_0035.png"; bbox 0 0 1955 3198; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 498 1014 1214 1119">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 498 1014 1214 1119">
+     <span class='ocr_line' id='line_1_1' title="bbox 498 1014 1214 1119; baseline -0.006 -2"><span class='ocrx_word' id='word_1_1' title='bbox 498 1014 1214 1119; x_wconf 71' lang='lat' dir='ltr'>CORNIFICI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 18 1278 1556 1369">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 18 1278 1556 1369">
+     <span class='ocr_line' id='line_1_2' title="bbox 18 1278 1556 1369; baseline -0.012 1"><span class='ocrx_word' id='word_1_2' title='bbox 18 1315 26 1318; x_wconf 70' lang='grc'><em>’</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 131 1285 742 1369; x_wconf 62' lang='lat' dir='ltr'>RHETol-{lwlzliu</span> <span class='ocrx_word' id='word_1_4' title='bbox 814 1285 913 1360; x_wconf 70' lang='lat' dir='ltr'>‚w</span> <span class='ocrx_word' id='word_1_5' title='bbox 977 1288 1036 1361; x_wconf 57' lang='grc' dir='ltr'>(Ἃ</span> <span class='ocrx_word' id='word_1_6' title='bbox 1108 1278 1556 1357; x_wconf 64' lang='lat' dir='ltr'>HERENNHM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 700 1536 1011 1596">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 700 1536 1011 1596">
+     <span class='ocr_line' id='line_1_3' title="bbox 700 1536 1011 1596; baseline 0.003 -2"><span class='ocrx_word' id='word_1_7' title='bbox 700 1536 863 1595; x_wconf 74' lang='lat' dir='ltr'>LIBRI</span> <span class='ocrx_word' id='word_1_8' title='bbox 916 1537 1011 1596; x_wconf 87' lang='grc' dir='ltr'><strong>ΙΙΠ.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
